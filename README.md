@@ -1,0 +1,2 @@
+# seccampRdtscCalc
+セキュリティ・キャンプ全国大会 OS開発ゼミ 最先端OS談義にて作成したBaremetal上でRDTSCの値を求めるコード
