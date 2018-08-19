@@ -1,4 +1,5 @@
 # seccampRdtscCalc
 セキュリティ・キャンプ全国大会 OS開発ゼミ 最先端OS談義にて作成したBaremetal上でRDTSCの値を求めるコード<br>
 検証状況: Baremetal上で本当に4KBページ512個よりも2MBヒュージページの方が2MB書き込む場合速いのか<br>
-検証結果: 100回データを集めてPythonで集計した結果2MBヒュージページに書き込む方が速かった
+検証結果: 100回データを集めてPythonで集計した結果2MBヒュージページに書き込む方が速かった<br>
+環境: Baremetal環境 Toshokan
